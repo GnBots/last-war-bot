@@ -21,6 +21,14 @@ Monitor attacks and protect your base.
 ✅ Daily Automation
 Complete repetitive tasks without grinding.
 
+## Documentation
+
+- Last War Bot Setup Guide
+- Features
+- Cloud Bot vs GitHub Bot
+- Map Scanner
+- FAQ
+
 ## Download Last War Bot
 
 Ready to automate Last War Survival?
