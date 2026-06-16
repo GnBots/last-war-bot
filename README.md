@@ -22,7 +22,7 @@ Monitor attacks and protect your base.
 Complete repetitive tasks without grinding.
 
 ## Last War Bot Documentation
-
+- [Last War Bot Free Download](last-war-bot-free-download.md)
 - [Setup Guide](last-war-bot-setup-guide.md)
 - [Features](last-war-bot-features.md)
 - [Map Scanner](last-war-map-scanner.md)
