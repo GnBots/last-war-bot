@@ -21,13 +21,13 @@ Monitor attacks and protect your base.
 ✅ Daily Automation
 Complete repetitive tasks without grinding.
 
-## Documentation
+## Last War Bot Documentation
 
-- Last War Bot Setup Guide
-- Features
-- Cloud Bot vs GitHub Bot
-- Map Scanner
-- FAQ
+- [Setup Guide](last-war-bot-setup-guide.md)
+- [Features](last-war-bot-features.md)
+- [Map Scanner](last-war-map-scanner.md)
+- [GitHub Bot vs Cloud Bot](last-war-bot-github-vs-cloud-bot.md)
+- [FAQ](last-war-bot-faq.md)
 
 ## Download Last War Bot
 
