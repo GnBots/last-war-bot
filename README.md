@@ -23,7 +23,9 @@ Complete repetitive tasks without grinding.
 
 ## Download Last War Bot
 
-https://www.gnbots.com/auto/last-war-bot/
+Ready to automate Last War Survival?
+
+👉 https://www.gnbots.com/auto/last-war-bot/
 
 ## Why Not A Normal GitHub Bot?
 
